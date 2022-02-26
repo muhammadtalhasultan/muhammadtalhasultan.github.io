@@ -1,0 +1,5 @@
+/sass
+/bower_components
+config.rb
+bower.json
+/**/.sass-cache
